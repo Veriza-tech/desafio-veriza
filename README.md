@@ -8,15 +8,13 @@ Queremos ver como você aborda a solução de problemas e usa suas habilidades p
 
 ## O problema
 
-Você está prestes a se tornar um mestre Pokemon, mas antes, você foi recrutado para criar uma interface web que possibilite a visualização dos Pokemons do tipo Água. Para isso, desenvolva uma aplicação utilizando a biblioteca React que liste e informe os Pokemons do tipo Água e suas respectivas habilidades.
+Você está prestes a se tornar um mestre Pokemon, mas antes, você foi recrutado para criar uma interface web que possibilite a visualização dos Pokemons. Para isso, desenvolva uma aplicação utilizando a biblioteca React que liste e informe os Pokemons e suas respectivas informações.
 
-Consulte as informações na api: https://pokeapi.co
-
-Consulta para pokemons aquáticos: https://pokeapi.co/api/v2/type/water/
+Consulte as informações no endpoint: https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json
 
 O seguinte layout deve ser desenvolvido.
 
-![image](image.png)
+![image](layout.png)
 
 ### Seria ótimo ver
 
@@ -25,6 +23,7 @@ O seguinte layout deve ser desenvolvido.
 - Uso de styled components e react hooks
 - Componentização
 - Organização de pastas
+- Pesquisa dos pokemons por nome ou número
 
 <br>
 
