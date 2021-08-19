@@ -22,7 +22,7 @@ O seguinte layout deve ser desenvolvido.
 
 - Algum comportamento responsivo implementado.
 - Utilização dos padrões a partir do ES6
-- Uso de styled components
+- Uso de styled components e react hooks
 - Componentização
 - Organização de pastas
 
